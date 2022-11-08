@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/ramu/Personal/computer_vision/homework0/spinnamaraju_HW0/Phase2/Code/helper_scripts'
+let g:netrw_dirhist_7='/home/ramu/Personal/computer_vision/homework0/spinnamaraju_HW0/Phase2/Code'
+let g:netrw_dirhist_6='/home/ramu/Personal/computer_vision/homework0/spinnamaraju_HW0/Phase2/Code/helper_scripts'
+let g:netrw_dirhist_5='/home/ramu/Personal/EVPropNet/Code'
+let g:netrw_dirhist_4='/home/ramu/Personal/EVPropNet/Code/Network'
+let g:netrw_dirhist_3='/home/ramu/Personal/EVPropNet/Code'
+let g:netrw_dirhist_2='/home/ramu/Personal/EVPropNet/Code/Scripts'
+let g:netrw_dirhist_1='/home/ramu/Personal/EVPropNet/Code'
+let g:netrw_dirhist_0='/home/ramu/Personal/computer_vision/homework0/spinnamaraju_HW0/Phase2/Code/helper_scripts'
+let g:netrw_dirhist_9='/home/ramu/Personal/computer_vision/homework0/spinnamaraju_HW0/Phase2/Code'
